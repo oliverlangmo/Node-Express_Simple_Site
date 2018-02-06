@@ -1,0 +1,22 @@
+{
+  "name": "node_and_express_simple_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverlangmo/Node-Express_Simple_Site.git"
+  },
+  "author": "oliver",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  }
+}
